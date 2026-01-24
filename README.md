@@ -19,6 +19,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+## Top Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=attywenn&layout=compact&theme=dark)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=attywenn&show_icons=true&theme=dark)
