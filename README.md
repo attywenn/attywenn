@@ -1,8 +1,8 @@
 # Good day, I'm Wency!
 
-**C++/Java Programmer | Backend Developer**
+** Computer Programmer(Java/C++) | Backend Developer **
 
-## 🛠 Tech Stack
+## Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
