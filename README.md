@@ -18,6 +18,7 @@ Computer Programmer(Java/C++) | Backend Developer
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=attywenn&layout=compact&theme=dark)
