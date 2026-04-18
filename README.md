@@ -1,8 +1,8 @@
 # Good day, I'm Wency!
 
-## | Software Engineer
+Software Engineer
 
-## Tech Stack
+## | Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -11,5 +11,5 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## Top Languages Used
+## | Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=attywenn&layout=compact&theme=dark)
