@@ -1,7 +1,6 @@
 # Good day, I'm Wency!
 
-[Editorial Writer | Software Engineer](https://img.shields.io/badge/Software%20Engineer?style=for-the-badge
-)
+![Editorial Writer | Software Engineer](https://img.shields.io/badge/Editorial_Writer-Software_Engineer-blue)
 
 ## | Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
