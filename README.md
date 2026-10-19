@@ -1,6 +1,6 @@
 # Good day, I'm Wency!
 
-![Data Engineering Student | Software Developer](https://img.shields.io/badge/Editorial_Writer-Software_Engineer-purple)
+![Data Engineering Student | Software Developer](https://img.shields.io/badge/Data_Enthusiast-Software_Developer-purple)
 
 ## | Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
